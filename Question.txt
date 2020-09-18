@@ -1,0 +1,5 @@
+Create a Model that can predict whether the given photo is a horse or human.
+Target for Test Accuracy as minimum 69%
+Ensure you deploy a Generalized Model.
+
+Dataset Link: https://www.kaggle.com/sanikamal/horses-or-humans-dataset
